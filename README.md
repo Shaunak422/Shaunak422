@@ -3,7 +3,7 @@
 # Hi there, I'm Shaunak Manoj Dinkar 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=750&lines=AI+%2F+ML+Engineer+%26+Data+Science+Postgraduate;Deep+Learning+%7C+Computer+Vision+%7C+Statistical+Modelling;GenAI+%26+Production+RAG+Architectures;Turning+Complex+Data+into+Intelligent+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=750&lines=AI+%2F+ML+Engineer+%26+Data+Science+Postgraduate;Turning+Complex+Data+into+Intelligent+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -96,6 +96,11 @@
 - Achieved **75% classification accuracy** by systematically benchmarking Gini vs. Entropy split criteria and tuning hyperparameters across 9 Decision Tree configurations.
 - Conducted confusion-matrix error diagnosis, evaluating precision, recall, and decision boundaries for reliable decision support.
 
+### 🤖 [Automated Service Delivery & Workflow Visualization](https://github.com/Shaunak422)
+> Designed full-stack integrations using **React**, **Node.js**, **Express**, and **MySQL** for automated service interactions and visual workflow rendering.
+- Integrated a **Dialogflow chatbot** with location-based services via the Google Maps API to automate customer queries in real time.
+- Implemented the **Dagre graph layout algorithm** within **React Flow** to automate structured workflow diagrams.
+
 ---
 
 ## 🏆 Education & Certifications
@@ -108,21 +113,3 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shaunak422&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shaunak's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaunak422&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaunak422&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="94%" />
-
-</div>
-
----
-
-<div align="center">
-  <sub>Let's connect! Always open to discussing Machine Learning research, Data Analytics, and AI collaborations.</sub>
-</div>
