@@ -96,10 +96,6 @@
 - Achieved **75% classification accuracy** by systematically benchmarking Gini vs. Entropy split criteria and tuning hyperparameters across 9 Decision Tree configurations.
 - Conducted confusion-matrix error diagnosis, evaluating precision, recall, and decision boundaries for reliable decision support.
 
-### 🤖 [Automated Service Delivery & Workflow Visualization](https://github.com/Shaunak422)
-> Designed full-stack integrations using **React**, **Node.js**, **Express**, and **MySQL** for automated service interactions and visual workflow rendering.
-- Integrated a **Dialogflow chatbot** with location-based services via the Google Maps API to automate customer queries in real time.
-- Implemented the **Dagre graph layout algorithm** within **React Flow** to automate structured workflow diagrams.
 
 ---
 
